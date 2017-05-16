@@ -1,0 +1,8 @@
+.editar{
+    display: flex;
+    align-items: center;
+}
+
+body{
+    background: red;
+}
